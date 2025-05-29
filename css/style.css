@@ -1,0 +1,58 @@
+/* PARTOUT */
+
+* {
+    font-family: roboto, sans-serif;
+}
+
+.navbar {
+    width: 100%;
+    height: 60px;
+    background-color: #1d1a1a;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar a {
+    color: #7b5a5a;
+    margin: 0.5%;
+}
+
+.navbar a:link {
+    text-decoration: none;
+}
+
+.navbar_div {
+    display: flex;
+    flex-direction: row;
+}
+
+.title {
+    color: #707070;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.sum_color {
+    color: #b2b2b2;
+}
+
+.name_color {
+    color: #383838;
+}
+
+.hidden {
+    display: none;
+}
+
+/* ACCEUIL */
+
+
+
+
+
+
+
+
+
+/* ADMIN */
